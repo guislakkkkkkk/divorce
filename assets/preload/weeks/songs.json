@@ -1,0 +1,33 @@
+{
+	"songs": [
+		[
+			"Divorce",
+			"bigman",
+			"cris",
+			[
+				235,
+				235,
+				235
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "funny",
+	"weekName": "funny",
+	"freeplayColor": [
+		255,
+		255,
+		255
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

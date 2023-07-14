@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sadcris.png">
+<SubTexture name="idle0000" x="419" y="0" width="427" height="1037" frameX="-407" frameY="-368" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="left0000" x="1788" y="0" width="534" height="1023" frameX="-294" frameY="-383" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="left0001" x="1270" y="0" width="518" height="1031" frameX="-312" frameY="-375" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="right0000" x="849" y="1041" width="418" height="1012" frameX="-469" frameY="-394" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="right0001" x="1267" y="1041" width="422" height="1012" frameX="-437" frameY="-394" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="up0000" x="0" y="0" width="419" height="1041" frameX="-421" frameY="-366" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="up0001" x="846" y="0" width="424" height="1033" frameX="-415" frameY="-373" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="down0000" x="425" y="1041" width="424" height="1013" frameX="-416" frameY="-391" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="down0001" x="0" y="1041" width="425" height="1021" frameX="-412" frameY="-384" frameWidth="2560" frameHeight="1440" />
+</TextureAtlas>

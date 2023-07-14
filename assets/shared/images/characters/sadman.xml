@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sadman.png">
+<SubTexture name="idle0000" x="467" y="759" width="467" height="703" frameX="-1800" frameY="-679" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="idle0001" x="473" y="1464" width="482" height="688" frameX="-1787" frameY="-694" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="idle0002" x="0" y="1464" width="473" height="692" frameX="-1794" frameY="-690" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="idle0003" x="934" y="759" width="469" height="700" frameX="-1798" frameY="-682" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="idle0004" x="0" y="759" width="467" height="705" frameX="-1800" frameY="-677" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="right0000" x="955" y="1464" width="524" height="686" frameX="-1816" frameY="-697" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="right0001" x="1821" y="0" width="517" height="698" frameX="-1803" frameY="-685" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="left0000" x="892" y="0" width="459" height="713" frameX="-1760" frameY="-670" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="left0001" x="1351" y="0" width="470" height="711" frameX="-1794" frameY="-672" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="up0000" x="0" y="0" width="437" height="759" frameX="-1814" frameY="-625" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="up0001" x="437" y="0" width="455" height="715" frameX="-1806" frameY="-669" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="down0000" x="2338" y="0" width="565" height="643" frameX="-1751" frameY="-741" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="down0001" x="1479" y="1464" width="505" height="677" frameX="-1781" frameY="-707" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="down0002" x="1821" y="698" width="475" height="697" frameX="-1796" frameY="-687" frameWidth="2560" frameHeight="1440" />
+</TextureAtlas>
